@@ -1,4 +1,4 @@
 # bok
 
-Lasse är ute på stan.
+Lasse är ute på stan. Han har varit ute hela dagen.
 Synd att han inte har några byxor.
